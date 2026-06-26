@@ -7,17 +7,20 @@ GO Transit departures, delays, and schedules from your pocket.
 
 ## Features
 - Real-time GO train and bus departures across the entire network
+- Real-time trip tracking: stay informed on every part of your trip
+- Uchat: live messaging to stay updated with fellow travellers
 - Real-time network status and delay information
-- Early previews for platform and gate numbers
+- Previews for scheduled platform and gate numbers
 - Fully-fledged schedule building system from every stop
-- Offline capabilities 
+- Native offline caching capabilities
 
 ## Roadmap
-- Real-time trip tracking: stay informed on every part of your trip
 - Union Station live navigation: accessibility-focused immersive 3D maps
-- UTalk: trip-specific live message rooms to chat with fellow travellers
+- Integrated wiki/directory for transit documentation
+- Dedicated page for GTHA transit news, events, and other media
+- Continuous user interface ease of use and accessibility improvements
 
 ## Quickstart
-Visit https://union-screens.com </br>
-Swipe right and left to open and close the navigation menu. <br/>
-Tap a departure entry to see detailed information including line, stops, departure time, coaches, and early platform and gate numbers.
+Visit https://union-screens.com <br/>
+Use the navigation menu to browse pages (bottom of the screen on portrait smartphones,
+<br/>left side of the screen on portrait resolutions)<br/>
